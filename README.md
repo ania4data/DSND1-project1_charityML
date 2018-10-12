@@ -1,6 +1,6 @@
 # Finding Donors for CharityML
 
-In this project I used several supervised algorithms to accurately model individuals' income using data collected from the 1994 U.S.
+In this project I used several supervised algorithms to accurately model individuals' income using data collected from the 1994 U.S. census.
 Algorithms studied here are:
 
 - Random Forest
@@ -15,7 +15,7 @@ Algorithms studied here are:
 - Numpy
 - Pandas
 - Scikit learn
-- tqtime
+- time
 - seaborn
 - matplotlib
 - IPython
